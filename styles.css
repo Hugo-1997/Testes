@@ -1,0 +1,36 @@
+h1 {
+    color: rgb(226, 43, 171);
+    text-align: center; {height: 1px;}
+  
+}
+h2{color: aqua;
+    text-align: center;{height: 2px;}
+
+}
+
+
+h3{color: aqua;
+    text-align: center;{height: 2px;}
+
+}
+
+P{color: rgb(12, 48, 48);
+    text-align: center;{height: 2px;}
+}
+body {
+    text-align: center;
+    .imagem {
+        width: 200px; /* Largura desejada */
+        height: auto; /* Mantém a proporção da altura em relação à largura */
+      }
+      
+  }
+
+  body img {<img src="livi.jpg.jpg">}
+ 
+ 
+
+
+
+
+ 
